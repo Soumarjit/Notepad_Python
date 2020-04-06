@@ -12,7 +12,7 @@ main_application.wm_iconbitmap('mainicon.ico')
 
 
 main_menu = tk.Menu()
-#File icons
+
 
 new_icon =tk.PhotoImage(file='icons2/new.png')
 open_icon =tk.PhotoImage(file='icons2/open.png')
